@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Making the same change for learning merge conflict.
-=======
 Making a change to learn merge conflict
->>>>>>> feature_branch
